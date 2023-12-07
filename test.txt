@@ -1,0 +1,4 @@
+[DEBUG]  [DROP] Dropped Row 123
+[DEBUG]  [DROP] Dropped Row A
+[DEBUG]  [APPEND] Appended Row 123 {row info}
+[DEBUG]  [APPEND] Appended Column Column D
